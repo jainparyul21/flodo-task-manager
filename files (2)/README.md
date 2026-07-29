@@ -2,10 +2,6 @@
 
 > A premium, visually striking task management app built for the Flodo AI take-home assessment.
 
----
-
-## Screenshots & Design Philosophy
-
 Flodo uses a **dark cyberpunk-premium** aesthetic — deep navy base, electric purple & cyan accents, frosted glass cards, and smooth micro-animations. The goal: look like a product you'd pay for, not a tutorial app.
 
 ---
